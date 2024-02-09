@@ -7,7 +7,11 @@ This project holds practical implications, serving as a valuable tool for veteri
 Key Milestones:
 
 1- Data preparation and preprocessing
+
 2- Transfer learning with a pretrained model
+
 3- Model evaluation and optimization
+
 4- Saving and loading the trained model
+
 This hands-on experience included setting up Google Colab, optimizing GPU utilization, and utilizing TensorBoard for insightful performance analysis
