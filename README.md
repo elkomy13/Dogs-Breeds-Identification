@@ -33,5 +33,10 @@ Also, learned 10 ways to prevent overfitting:
 7- Ensemble Learning for diverse predictions
 
 8- Cross-Validation for reliable performance estimates
+
 9- Feature Selection to focus on informative features
+
 10- Consider using a simpler model
+
+![image](https://github.com/elkomy13/Dogs-Breeds-Identification/assets/97259226/19996f77-7ee9-4718-99dd-4ae0f20eb2db)
+
