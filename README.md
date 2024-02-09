@@ -19,12 +19,19 @@ Key Milestones:
 Also, learned 10 ways to prevent overfitting:
 
 1- Increase training dataset size
+
 2- Data Augmentation (rotation, flipping, zooming)
+
 3- Dropout for neuron regularization
+
 4- Weight Regularization (L1 or L2)
+
 5- Early Stopping based on validation performance
+
 6- Batch Normalization for stability
+
 7- Ensemble Learning for diverse predictions
+
 8- Cross-Validation for reliable performance estimates
 9- Feature Selection to focus on informative features
 10- Consider using a simpler model
